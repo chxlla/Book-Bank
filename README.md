@@ -2,6 +2,8 @@
 
 A MERN-stack book inventory app. `mern-client` is a React + Vite frontend, `mern-server` is an Express + MongoDB backend.
 
+_Originally built in February 2026._
+
 ## Project structure
 
 ```
